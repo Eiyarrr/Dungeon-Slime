@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="MonoGameLibrary/MonoGameLibrary.csproj" Id="35a21f28-3a36-48d9-a317-bf4979591d65" />
   <Project Path="Pong/Pong.csproj" />
 </Solution>
